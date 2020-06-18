@@ -1,0 +1,16 @@
+.navbar > p {
+    font-size: 20px;
+    text-align: center;
+}
+.info {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-right: 150px;
+    padding-left: 150px;
+
+
+}
+.boeket, .winkel {
+    height: 500px;
+}
